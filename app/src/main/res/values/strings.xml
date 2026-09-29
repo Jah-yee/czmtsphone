@@ -95,7 +95,7 @@
  <string name="fast_dial_mts">Fast dialing</string>
  <string name="blocked_numbers_mts">Blocking &amp; spam</string>
 <string name="error_autoremoveperm_mts">You have automatic permission removal enabled for this application. Turn this option off.</string>
- <string name="perm_mts">Check premissions</string>
+ <string name="perm_mts">Check permissions</string>
  <string name="speaker_mts">Built-in loud speaker</string>
  <string name="ear_mts">Built-in speaker</string>
 <string name="select_audio_mts">Select a device</string>
